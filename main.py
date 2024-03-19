@@ -37,9 +37,9 @@ def onliner(token, status):
         "d": {
             "token": token,
             "properties": {
-                "$os": "Windows 10",
-                "$browser": "Google Chrome",
-                "$device": "Windows",
+                "$os": "android",
+                "$browser": "Discord Android",
+                "$device": "Discord Android",
             },
             "presence": {"status": status, "afk": False},
         },
